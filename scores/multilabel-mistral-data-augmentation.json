@@ -1,0 +1,1 @@
+{"coverage error": 12.072727272727272, "label ranking average precision": 0.3320410415651362, "label ranking loss": 0.18464770382074702, "support": 55, "micro-precision": 0.0, "micro-recall": 0.0, "micro-f1": 0.0, "macro-precision": 0.0, "macro-recall": 0.0, "macro-f1": 0.0, "time": 33554.562331199646}
